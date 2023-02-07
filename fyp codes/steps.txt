@@ -1,0 +1,16 @@
+https://vitalv.github.io/projects/voice-gender-classifier.html
+( https://ieeexplore.ieee.org/abstract/document/8777582 ) 10
+=>in order to gain a deeper understanding of the model and to determine the exact properties that indicate a gender of a person, 
+	a classification and regression tree (CART)
+
+########################################################################################
+##########################                    ##########################################
+######################  STEPS TO BE FOLLOWED NEXT ######################################
+##########################                    ##########################################
+########################################################################################
+COMBINATION :
+	=> R AND PYTHON COMBINANTION, CALL AN R CODE FROM PYTHON, PASS IT A VOICE NOTE DYNAMICALLY, GET REQUIRED DATA FROM THE
+	   R FUNCTION WHICH IS ONLY THREEE VALUES. DEAL WITH DATA FRAM IN R AND GET THOSE VALUES,
+	   SAVE THOSE VALUES IN ARRAY AND DYNAMICALLY PASS THAT ARRAY FOR PREDICTION.
+	=> BACK-END, FRONT-END
+	=> DEPLOYMENT
